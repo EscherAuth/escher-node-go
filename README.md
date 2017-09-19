@@ -14,7 +14,7 @@ Proof of Concept project for using Go based Escher implementation from a NodeJS 
 ## Starting application
 
 1. `make start` or `node app.js`
-2. open localhost:3000
+2. open `localhost:3000`
 
 The listening port can be modified with the `PORT` environment variable.
 
